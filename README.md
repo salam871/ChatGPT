@@ -1,1 +1,3 @@
-ChatGPT front page
+ChatGPT front page /n
+
+https://salam871.github.io/ChatGPT/
